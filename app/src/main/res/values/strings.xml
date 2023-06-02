@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="login_email_hint">john@example.com</string>
+    <string name="login_email_label">Email</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_password_hint">Your Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_greeting">Welcome Back</string>
+    <string name="register_email_hint">john@gmail.com</string>
+    <string name="register_email_label">Email</string>
+    <string name="register_password_hint">Password</string>
+    <string name="register_password_label">Password</string>
+    <string name="register_button_submit">Sign Up</string>
+    <string name="login_no_account_text">Don\'t have account?</string>
+    <string name="login_navigate_to_signup_text">Sign Up</string>
+    <string name="login_error_invalid_credentials">Credentials not found</string>
+    <string name="profile_placeholder_name">John Doe</string>
+    <string name="profile_placeholder_email">john@example.com</string>
+    <string name="profile_placeholder_about">Hello, I\'m John. I have been working as Backend Engineer for 6 months</string>
+    <string name="register_about_label">About Me</string>
+    <string name="register_about_hint">Tell about yourself</string>
+    <string name="register_greeting_text">Register</string>
+    <string name="register_name_label">Name</string>
+    <string name="register_name_hint">John Doe</string>
+</resources>
